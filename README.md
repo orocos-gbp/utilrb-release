@@ -1,3 +1,24 @@
+## utilrb (indigo) - 2.8.0-1
+
+The packages in the `utilrb` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo -r indigo utilrb` on `Mon, 26 Jan 2015 16:04:40 -0000`
+
+The `utilrb` package was released.
+
+Version of package(s) in repository `utilrb`:
+- upstream repository: https://github.com/orocos-toolchain/utilrb.git
+- release repository: https://github.com/orocos-gbp/utilrb-release.git
+- rosdistro version: `2.8.0-0`
+- old version: `2.8.0-0`
+- new version: `2.8.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## utilrb (indigo) - 2.8.0-0
 
 The packages in the `utilrb` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo --new utilrb` on `Sun, 25 Jan 2015 20:58:28 -0000`
